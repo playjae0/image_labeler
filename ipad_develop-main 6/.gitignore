@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.ipynb_checkpoints/
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit/local caches
+.streamlit/secrets.toml
+
+# Archive artifacts
+*.zip
